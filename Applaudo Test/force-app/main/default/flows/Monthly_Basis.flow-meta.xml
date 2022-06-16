@@ -63,7 +63,7 @@
     <formulas>
         <name>formulamonthlybasis</name>
         <dataType>Boolean</dataType>
-        <expression>DAY(TODAY()) = 16</expression>
+        <expression>DAY(TODAY()) = 17</expression>
     </formulas>
     <interviewLabel>Monthly Bases {!$Flow.CurrentDateTime}</interviewLabel>
     <label>Monthly Basis</label>
